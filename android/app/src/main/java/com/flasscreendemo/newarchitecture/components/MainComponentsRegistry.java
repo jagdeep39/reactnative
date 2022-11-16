@@ -1,4 +1,4 @@
-package com.blood.newarchitecture.components;
+package com.flasscreendemo.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

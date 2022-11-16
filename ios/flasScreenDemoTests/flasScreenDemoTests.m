@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface BloodTests : XCTestCase
+@interface flasScreenDemoTests : XCTestCase
 
 @end
 
-@implementation BloodTests
+@implementation flasScreenDemoTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {
